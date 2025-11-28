@@ -31,3 +31,6 @@ Tables:
    
 ``` bash
       https://github.com/Vaishnavi619/HospitalApplication.git
+
+2.Open MySQL and create a database
+ CREATE DATABASE hospitaldb;
