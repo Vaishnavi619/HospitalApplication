@@ -30,3 +30,4 @@ Tables:
 1. Clone the repository
    
 ``` bash
+      https://github.com/Vaishnavi619/HospitalApplication.git
